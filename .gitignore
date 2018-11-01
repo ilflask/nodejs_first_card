@@ -1,0 +1,22 @@
+
+# Distribution / packaging
+build/
+vendor/
+# dumps and backups
+*.7zip
+
+# ide and editors
+.idea
+.git
+# tools and utils
+composer.phar
+
+# log and errors
+log.txt
+*.log
+/docker-compose.yml
+
+node_modules/
+/log
+/config/config.yml
+/temp

@@ -1,0 +1,13 @@
+log:
+   file:
+     path: ./log/parser
+
+site:
+  url:  ''
+  login: ''
+  pass: ''
+telegram:
+  token: ''
+  url: ''
+  chat_id:
+    -
